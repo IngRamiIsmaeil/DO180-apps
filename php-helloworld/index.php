@@ -1,4 +1,7 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "A Big Big Change is coming now"  + date('m/d/Y h:i:s a', time());
+print "Größe  Änderungen kommen gleich :) "
+$t=time();
+echo($t . "<br>");
+echo(date("Y-m-d",$t));
 ?>
