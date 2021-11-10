@@ -1,0 +1,4 @@
+<?php
+print "Hallo, Welt + Hallo Hossein :)! PHP version is " . PHP_VERSION . "\n";
+?>
+
